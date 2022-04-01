@@ -36,4 +36,4 @@ istediğinizi tartışmak için bir konu açınız.
 
 
 
-![Picture from repo](images\2022-04-01.png)
+![](images\2022-04-01.png)
